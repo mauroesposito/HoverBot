@@ -31,10 +31,10 @@
  */
 // CONTROLLER
 #define KP_BALANCE 0.35       // Lukas default: 0.4
-#define KD_BALANCE -0.03      // Lukas default: -0.065
+#define KD_BALANCE  -0.03     // Lukas default: -0.065
 #define KP_POSITION 0.015     // Lukas default: 0.015       
 #define KP_STEERING 0.01      // Lukas default: 0.01
-#define KD_ORIENTATION 0.001  // Lukas default: 0.01; my robot enter in loop on vertical axis.
+#define KD_ORIENTATION -0.01  // Lukas default: 0.01; my robot enter in loop on vertical axis: try also 0.001
 #define TILT_LIMIT 40
 
 // RADIO CONTROL
