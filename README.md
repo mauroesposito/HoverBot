@@ -1,3 +1,23 @@
+My construction of this fantastic robot.
+
+Here the final result:
+
+![hoverbot](![immagine](https://user-images.githubusercontent.com/8039989/86508497-d01b5e80-bde0-11ea-9f0f-e3edaf4cfc35.png))
+
+Next steps/improvements:  
+
+* improve security: add kill switch using channel 4 of the rc receiver;
+* adding a power switch to stop current to ODrive from battery: as activation of kill switch command from arduino (or -- see next);
+* alternatively evaluate solution to send a command to ODrive to stop immediately power erogation to motors;
+* simplify pid configuration: adding an ESP32 with a web interface with Arduino to make easy and painless calibration of the parameters.
+
+Thank you Lukas for this fantastic robot.
+
+Mauro
+
+
+***
+
 # HoverBot
 Rugged radio-controlled self-balancing robot using hoverboard hub motors.
 
