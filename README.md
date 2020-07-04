@@ -2,7 +2,7 @@ My construction of this fantastic robot.
 
 Here the final result:
 
-![hoverbot](![immagine](https://user-images.githubusercontent.com/8039989/86508497-d01b5e80-bde0-11ea-9f0f-e3edaf4cfc35.png))
+![hoverbot](https://user-images.githubusercontent.com/8039989/86508497-d01b5e80-bde0-11ea-9f0f-e3edaf4cfc35.png)
 
 Next steps/improvements:  
 
