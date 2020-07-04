@@ -45,10 +45,14 @@ Here the horizontal wood holder, you need 6 of this:
 Some picture of the robot assembly details:
 
 ![image003](https://user-images.githubusercontent.com/8039989/86509500-b41bbb00-bde8-11ea-9948-8e6df07b848d.jpg)
+
 ![image004](https://user-images.githubusercontent.com/8039989/86509501-b4b45180-bde8-11ea-9266-51840332e6f7.jpg)
+
 ![image002](https://user-images.githubusercontent.com/8039989/86509504-b54ce800-bde8-11ea-8a30-3886d7a7ce97.jpg)
+
 I've added a horizontal wood bar to keep robot in vertical position when is off:
 ![image008](https://user-images.githubusercontent.com/8039989/86509502-b4b45180-bde8-11ea-8371-e87a05b4272d.jpg)
+
 And don't forget to add some pluriball on the head robot to avoid violent crashes on the ground (yes, it can occur sometimes):
 ![image010](https://user-images.githubusercontent.com/8039989/86509545-1aa0d900-bde9-11ea-8394-ee94564aed32.jpg)
 
